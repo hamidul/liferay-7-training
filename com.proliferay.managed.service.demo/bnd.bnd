@@ -1,0 +1,4 @@
+Bundle-Activator: com.proliferay.Activator
+Bundle-Name: com.proliferay.managed.service.demo
+Bundle-SymbolicName: com.proliferay
+Bundle-Version: 1.0.0-SNAPSHOT

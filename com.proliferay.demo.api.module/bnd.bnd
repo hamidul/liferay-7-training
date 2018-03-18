@@ -1,0 +1,4 @@
+Bundle-Name: com.proliferay.demo.api.module
+Bundle-SymbolicName: com.proliferay.demo.api.module
+Bundle-Version: 1.0.0-SNAPSHOT
+Export-Package: com.proliferay.api
