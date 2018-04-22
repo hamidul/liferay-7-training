@@ -1,0 +1,9 @@
+Bundle-Name: com.proliferay.login.fragment
+Bundle-SymbolicName: com.proliferay.login.fragment
+Bundle-Version: 1.0.0-SNAPSHOT
+Fragment-Host:  com.liferay.login.web;bundle-version="1.1.24"
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
+-plugin.resourcebundle: com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin
+-plugin.sass: com.liferay.ant.bnd.sass.SassAnalyzerPlugin
+-sass: *
