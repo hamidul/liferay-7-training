@@ -1,0 +1,4 @@
+Bundle-Name: com.proliferay.sample.servlet
+Bundle-SymbolicName: com.proliferay.sample.servlet
+Bundle-Version: 1.0.0-SNAPSHOT
+Web-ContextPath:/myServlet
