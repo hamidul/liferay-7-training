@@ -1,5 +1,5 @@
 Bundle-Name: com.proliferay.user.personal.bar.demo
-Bundle-SymbolicName: com.proliferay
+Bundle-SymbolicName: com.proliferay.user.personal.bar.demo
 Bundle-Version: 1.0.0-SNAPSHOT
 Export-Package: com.proliferay.constants
 -jsp: *.jsp,*.jspf
